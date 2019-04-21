@@ -17,8 +17,8 @@
 ### 权重的更新过程
 
 ### 使用梯度下降的方法
-![更新1](Readme/updata.jpg)
-![更新2](Readme/updata_2.jpg)
-![更新3](Readme/updata_3.jpg)
+![更新1](Readme/update_1.jpg)
+![更新2](Readme/update_2.jpg)
+![更新3](Readme/update_3.jpg)
 
 ======================2019年4月21日=====================
